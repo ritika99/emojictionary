@@ -7,4 +7,4 @@ Input or click on an emoji to know its meaning.
 https://h5k7c.csb.app/ or https://emojictionary.netlify.app/
 
 ### Screenshots
-<img src="emojictionaryScreenshot.png" width="500">   <img src="emojictionaryScreenshotMobile.PNG" width="137">
+<kbd><img src="emojictionaryScreenshot.png" width="500"></kbd>   <kbd><img src="emojictionaryScreenshotMobile.PNG" width="137"></kbd>
